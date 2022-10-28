@@ -7,7 +7,7 @@ int main()
 {
   /*in the tabulation mwthod we used an array which takes the SC of O(N)
   we can avoid this by taking two variables*/
-  int n=27;
+  int n=5;
   //intialiaze the base cases
   int prev1=1;
   int prev2=0;
